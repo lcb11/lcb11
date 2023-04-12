@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I usually use Java
-- 😄 Love middleware and cloud native development. Keep coding...
+- 😄 Love programming. Keep coding...
 - 🔭 I’m currently participating in the contribution of Dubbo
 - 🔭 My Dubbo PR:https://github.com/apache/dubbo/pull/11542
 
