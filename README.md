@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I usually use Java, Golang, Typescript and Lua
+- 🌱 I usually use Java
 - 😄 Love middleware and cloud native development. Keep coding...
-- 👯 I’m interning at SenseTime as a software development intern from 2021.5-2021.8
-- 🔭 I’m currently participating in the contribution of Dubbo, Seata.
-- ⚡ [My 2022 GSOC Summary](https://github.com/conghuhu/conghuhu/blob/main/GSoC%202022%20Work%20Product%20Doc.md)
+- 🔭 I’m currently participating in the contribution of Dubbo
+- 🔭 My Dubbo PR:https://github.com/apache/dubbo/pull/11542
 
 ![lcb11's github stats](https://github-readme-stats.vercel.app/api?username=lcb11&theme=tokyonight&count_private=true&show_icons=true) 
 
