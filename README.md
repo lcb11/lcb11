@@ -6,7 +6,7 @@
 - 🔭 I’m currently participating in the contribution of Dubbo, Seata.
 - ⚡ [My 2022 GSOC Summary](https://github.com/conghuhu/conghuhu/blob/main/GSoC%202022%20Work%20Product%20Doc.md)
 
-![conghuhu's github stats](https://github-readme-stats.vercel.app/api?username=lcb11&theme=tokyonight&count_private=true&show_icons=true) 
+![lcb11's github stats](https://github-readme-stats.vercel.app/api?username=lcb11&theme=tokyonight&count_private=true&show_icons=true) 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lcb11&theme=dark&layout=compact)
 
