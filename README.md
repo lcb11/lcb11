@@ -2,7 +2,7 @@
 
 - 🌱 I usually use Java
 - 😄 Love programming. Keep coding...
-- 🔭 I’m currently participating in the contribution of Dubbo
+- 🔭 I’m currently internship at Danei
 - 🔭 My Dubbo PR:https://github.com/apache/dubbo/pull/11542
 
 ![lcb11's github stats](https://github-readme-stats.vercel.app/api?username=lcb11&theme=tokyonight&count_private=true&show_icons=true) 
