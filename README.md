@@ -2,7 +2,6 @@
 
 - 🌱 I usually use Java、Golang
 - 😄 Love programming. Keep coding...
-- 🔭 I’m currently internship at Danei
 - 🔭 Dubbo（可观测性）PR：https://github.com/apache/dubbo/pull/11542
 - 🔭 简易式分布式存储系统（HDFS）：https://github.com/lcb11/hdfs-bytetenns
 - 🔭 简易式分布式RPC框架：https://github.com/lcb11/SimpleRpc_lcb
