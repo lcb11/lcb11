@@ -6,7 +6,7 @@
 - 🔭 简易式分布式存储系统（HDFS）：https://github.com/lcb11/hdfs-bytetenns
 - 🔭 简易式分布式RPC框架：https://github.com/lcb11/SimpleRpc_lcb
 - 🔭 谷粒商城：https://github.com/lcb11/gmall
-- 📫 Welcome to contact me:2990024235@qq.com
+- 📫 Welcome to contact me：2990024235@qq.com
 
 ![lcb11's github stats](https://github-readme-stats.vercel.app/api?username=lcb11&theme=tokyonight&count_private=true&show_icons=true) 
 
